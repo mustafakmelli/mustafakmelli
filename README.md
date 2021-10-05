@@ -16,14 +16,14 @@
   ![Material UI](https://img.shields.io/badge/materialui-333333?style=flat&logo=material-ui&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/redux-333333?style=flat&logo=redux&logoColor=563D7C)
-  ![Styled Components](https://img.shields.io/badge/styled--components-333333?style=flatlogo=styled-components&logoColor=563D7C)
+  ![Styled Components](https://img.shields.io/badge/styled--components-333333?style=flatlogo=styled-components&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
+  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-333333?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
 <br/>
 
 <a href="https://github.com/mostafakmilly">
