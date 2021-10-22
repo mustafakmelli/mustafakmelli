@@ -26,7 +26,7 @@
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-333333?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
 <br/>
 
-<a href="https://github.com/mostafakmilly">
+<a href="https://github.com/mostafakmilly" style="display : flex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostafakmilly&theme=react&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafakmilly&theme=react&layout=compact" />
 </a>
