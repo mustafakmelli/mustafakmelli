@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studyied Software Engineering at Damascus university.
-- 💼 &nbsp; Working as a Frontend web developer.
+- 🎓 &nbsp; Studied Software Engineering at Damascus University.
+- 💼 &nbsp; Currently working as a Software Engineer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
