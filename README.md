@@ -9,6 +9,8 @@
 - 🎓 B.Sc. in Software Engineering
 - 🚀 Building modern web apps with frontend & backend technologies
 - ☁️ Working with Node, Rails, and AWS-powered distributed systems
+- 🔗 Some earlier contributions were made under my previous work GitHub account: [mustafakmelli-seek](https://github.com/mustafakmelli-seek)￼
+
 
 ---
 
