@@ -30,7 +30,7 @@
 ### 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mostafa-kashoul-milly-71453a1a3/">
+  <a href="https://www.linkedin.com/in/mustafa-kashoul-melli-71453a1a3/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mustafa%20Melli-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="mailto:mostafamilly6@gmail.com">
