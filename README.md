@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mostafa-kashoul-milly-71453a1a3/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mostafa%20Milly-blue?style=flat-square&logo=linkedin">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mustafa%20Melli-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="mailto:mostafamilly6@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-mostafamilly6@gmail.com-blue?style=flat-square&logo=gmail">
