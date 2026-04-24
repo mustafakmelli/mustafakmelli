@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Mostafa Kashoul Melli</h1>
+<h1 align="center">👋 Hi, I'm Mustafa Kashoul Melli</h1>
 <p align="center">Software Engineer @ SEEK • Full-stack | React • Node • Rails</p>
 
 ---
