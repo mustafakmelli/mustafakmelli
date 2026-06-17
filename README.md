@@ -7,7 +7,7 @@
 
 - Software Engineer at **[SEEK](https://www.seek.com.au)** — Australia's largest employment marketplace
 - B.Sc. in Software Engineering, graduated top of class
-- 5+ years delivering full-stack features across web and mobile — currently building the **SEEK Pass** ecosystem
+- 5+ years delivering full-stack features across web and mobile
 - Working with Ruby on Rails, React, AWS, and Terraform on distributed, event-driven systems
 - Some earlier contributions were made under my previous work GitHub account: [mustafakmelli-seek](https://github.com/mustafakmelli-seek)
 - Always learning, always shipping 🚀
